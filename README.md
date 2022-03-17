@@ -1,6 +1,6 @@
 - 👋 Hi, I’m MD
 - 👀 I’m interested in JS
-- 🌱 I’m currently learning React and react-native
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on
 - 📫 How to reach me mehrdad3373@hotmail.com
 
