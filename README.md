@@ -1,6 +1,5 @@
-- 👋 Hi, I’m MD
-- 👀 A Javascript developer
-- 🌱 I’m currently working with React
+- 👋 Hi, I’m Mehrdad
+- 👀 A simple developer
 - 💞️ I’m looking to collaborate on
 - 📫 How to reach me mehrdad3373@hotmail.com
 
